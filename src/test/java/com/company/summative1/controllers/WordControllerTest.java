@@ -1,4 +1,4 @@
-package com.company.summative1.controller;
+package com.company.summative1.controllers;
 
 import com.company.summative1.controllers.WordController;
 import com.company.summative1.models.Definition;
