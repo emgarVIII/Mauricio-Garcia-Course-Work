@@ -15,7 +15,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-@WebMvcTest(magicController.class)
+@WebMvcTest(MagicController.class)
 public class MagicControllerTest {
 
     // Wiring in the MockMvc object

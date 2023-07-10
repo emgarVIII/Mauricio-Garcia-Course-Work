@@ -10,12 +10,12 @@ import java.util.List;
 import java.util.Random;
 
 @RestController
-public class magicController {
+public class MagicController {
     private List<String> AnswerPrompts = new ArrayList<>();
     private static int currId = 0;
 
     //Controller response prompt data
-    public magicController(){
+    public MagicController(){
         AnswerPrompts.add("Yes");
         AnswerPrompts.add("Maybe?");
         AnswerPrompts.add("NO!!!");
