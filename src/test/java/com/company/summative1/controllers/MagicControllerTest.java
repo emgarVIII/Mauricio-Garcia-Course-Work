@@ -1,6 +1,6 @@
 package com.company.summative1.controllers;
 
-import com.company.summative1.modules.Answer;
+import com.company.summative1.models.Answer;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

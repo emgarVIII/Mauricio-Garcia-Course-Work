@@ -1,6 +1,6 @@
 package com.company.summative1.controllers;
 
-import com.company.summative1.modules.Quote;
+import com.company.summative1.models.Quote;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

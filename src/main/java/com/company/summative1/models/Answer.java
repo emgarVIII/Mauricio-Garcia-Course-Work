@@ -1,4 +1,4 @@
-package com.company.summative1.modules;
+package com.company.summative1.models;
 
 public class Answer {
     private int id;

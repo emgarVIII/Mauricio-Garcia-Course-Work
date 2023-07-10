@@ -1,6 +1,6 @@
 package com.company.summative1.controller;
 
-import com.company.summative1.controller.WordController;
+import com.company.summative1.controllers.WordController;
 import com.company.summative1.models.Definition;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
