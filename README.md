@@ -9,5 +9,3 @@ Other key points:
 Here is a video explaining the key components and logic of our REST APIs:
 
 [![Video Demo](https://img.youtube.com/vi/j-SBI6vLaOs/0.jpg)](https://youtu.be/j-SBI6vLaOs)
-
-
