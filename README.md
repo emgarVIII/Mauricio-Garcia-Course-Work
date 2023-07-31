@@ -7,6 +7,7 @@ Other key points:
 ● Implemented MockMvc for effective testing of all API endpoints, ensuring reliability and correctness of the API.
 
 Here is a video explaining the key components and logic of our REST APIs:
+
 [![Video Demo](https://img.youtube.com/vi/j-SBI6vLaOs/0.jpg)](https://youtu.be/j-SBI6vLaOs)
 
 
